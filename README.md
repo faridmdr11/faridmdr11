@@ -1,5 +1,7 @@
 # Hi there, I'm Farid 👋
 
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 Aspiring IT Developer passionate about building **mobile apps** and **web applications**.  
 Currently focused on mastering **Flutter** and exploring modern development workflows.
 
